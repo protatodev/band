@@ -1,6 +1,7 @@
 h1.sidebar_header {
   background-color: blue;
   color: white;
+  text-align: center;
 }
 
 .sidebar {
@@ -8,8 +9,22 @@ h1.sidebar_header {
   width: 30%;
   background-color: black;
   color: white;
+  padding: 10px;
 }
 
 .heading {
   text-align: center;
+}
+
+.paragraphs {
+  width: 60%;
+}
+
+img {
+  float: left;
+  padding: 10px;
+}
+
+.sidebar_padding {
+  padding: 10px;
 }
