@@ -1,0 +1,15 @@
+h1.sidebar_header {
+  background-color: blue;
+  color: white;
+}
+
+.sidebar {
+  float: right;
+  width: 30%;
+  background-color: black;
+  color: white;
+}
+
+.heading {
+  text-align: center;
+}
